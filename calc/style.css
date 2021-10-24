@@ -1,0 +1,7 @@
+#property, #options{
+    display: none;
+}
+
+#first, #second{
+    background-color: rgb(178, 169, 255);
+}
